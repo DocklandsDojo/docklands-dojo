@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading"><strong>Sushi Cards:</strong> My first website</h1>
 
   <ul class="post-list">
-    {% for post in site.posts | sort_by: "name" %}
+    {% for post in site.posts reversed | sort_by: "name" %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
