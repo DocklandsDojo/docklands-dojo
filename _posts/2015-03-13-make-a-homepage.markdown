@@ -58,3 +58,6 @@ Some suggestions (your own ideas welcome!) —
 |  My Top Songs | songs.html |
 |  My Hobbies | hobbies.html |
 |  My Heros | heros.html |
+
+
+<a href="{{site.baseurl}}{% post_url 2015-03-24-add-some-style %}" class="btn next-step pull-right">Next Step: Add some style</a>
