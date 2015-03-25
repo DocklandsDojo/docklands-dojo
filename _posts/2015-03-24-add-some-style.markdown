@@ -6,6 +6,9 @@ categories: my-first-website
 step: 5
 ---
 
+>If you don't have your work from last week, you can [download the starter kit]({{site.baseurl}}/assets/my-first-website-week-2.zip)
+
+
 
 The `index.html` Home page looks a bit boring.
 You can change its appearance using a `CSS file`.
